@@ -1,0 +1,40 @@
+#about{
+    background-color: purple
+    ;
+    margin-top: 0px;
+    padding-bottom: 223px;
+}
+#about-p{
+    margin-top: 100px;
+    margin-left: 90px;
+    margin-right: 100px;
+    padding-top: 80px;
+    padding-right:100px;
+    padding-left: 70px;
+    padding-bottom: 50px;
+    height: 400px;
+    width: 600px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #b19cd9;
+    border-radius: 30px;
+}
+.about-pic{
+    padding-left: 190px;
+    padding-right: 20px;
+    padding-top: 170px;
+    width: 500px;
+    height: 460px;
+    
+}
+#quote{
+    padding-left: 200px;
+}
+#person-pic{
+    width: 170px;
+    height: 170px;
+    margin-top: -390px;
+    margin-left: -260px;
+    border-radius: 100px;
+}

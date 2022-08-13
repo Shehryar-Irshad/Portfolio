@@ -1,0 +1,33 @@
+.container-xxl{
+    background-color: purple;
+  }
+  .navbar-brand{
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.icon-nav{
+    padding-left: 800px;
+
+}
+#icon1{
+ padding-right: 20px;
+ font-size: 30px; 
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: white;
+}
+#icon2{
+    padding-right: 20px;
+    font-size: 30px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+#icon3{
+    font-size: 30px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

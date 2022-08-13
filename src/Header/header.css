@@ -1,0 +1,31 @@
+
+.main2{
+    margin-top: -50px;
+    padding-top: -150px;
+    border-radius: 20px;
+    width: 500px;
+    height: 270px;
+    position: absolute;
+    top: 250px;
+    left: 430px;     
+    color:white; 
+}
+.main2::before{
+    
+}
+.image{
+    width: 1357px;
+    height: 89vh;
+    margin-left: -20px;
+   
+}
+#pic{
+    border-radius: 150px;
+}
+#btn2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: transparent;
+    color:white;
+    border-color: dimgray;
+    border-width: 5px;
+}
